@@ -1,2 +1,2 @@
-# CustomizingDeployment
+# Customizing Deployment with Kustomize
 Kustomize
